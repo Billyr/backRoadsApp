@@ -8,7 +8,7 @@ const Hero = () => {
             explicabo debitis est autem dicta.
           </p>
           <a href="#tours" className="btn hero-btn">
-            explore tours
+            Explore Tours
           </a>
         </div>
       </section>
